@@ -1,0 +1,1 @@
+Eliminacion de victoria derrota
